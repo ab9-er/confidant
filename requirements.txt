@@ -38,7 +38,7 @@ Flask-Session==0.2.1
 # License: MIT
 # Upstream url: https://github.com/andymccurdy/redis-py
 # Use: For shared sessions
-redis==2.10.3
+redis==4.5.3
 
 # Flask extension that configures the Flask application to redirect all
 # incoming requests to https
